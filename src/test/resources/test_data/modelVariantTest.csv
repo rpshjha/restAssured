@@ -1,0 +1,3 @@
+modelCodes, variantCodes, bodyTypes,enginTypes, channelTypes, colorCodes, isColorsRequired, isBodyTypesRequired, isEnginTypesRequired,isChannelTypesRequired, isTransmissionTypesRequired, isFuelTypesRequired
+CI,CIA4CLD,SEDAN,BS-4,NRE,ZDK,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+CI,CIA4CLD,SEDAN,BS-4,NRE,ZDK,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE

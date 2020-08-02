@@ -1,0 +1,2 @@
+cityId,tenure,id,modelCode,variantCode,startDate,endDate,isPriceRequired,isDiscountRequired,isSecurityRequired,isGSTRequired,categories
+1,6,1,,,01-01-2020,10-10-2020,TRUE,TRUE,TRUE,FALSE,1

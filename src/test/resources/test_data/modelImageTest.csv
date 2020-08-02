@@ -1,0 +1,9 @@
+xAppId,modelId,colorId,resolution,modelCd,variantCd
+1,1,Z7Q,xxxhdpi,SR,SRR4BV1
+1,6,ZYY,xxxhdpi,ER,ERR4BV1
+4,4,ZYA,xxxhdpi,DR,DRR4BV1
+,4,ZYA,xxxhdpi,DR,DRR4BV1
+4,,ZYA,xxxhdpi,DR,DRR4BV1
+4,4,,xxxhdpi,DR,DRR4BV1
+4,4,ZYA,xxxhdpi,,DRR4BV1
+4,4,ZYA,xxxhdpi,DR,
